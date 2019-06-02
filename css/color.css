@@ -1,0 +1,9 @@
+body{color:#414141;}
+
+/* NOTIFICATONS */
+.success{background-color:#dfd;color:#060;border-color:#060;}
+.warning{background-color:#ffb;color:#c90;border-color:#c90;}
+.info{background-color:#bef;color:#059;border-color:#059;}
+.error{background-color:#fcc;color:#900;border-color:#900;}
+
+.bg-lgray{background-color:#e3e3e3;}

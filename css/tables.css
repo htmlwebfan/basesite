@@ -1,0 +1,7 @@
+/* TABLES */
+.table{width:100%;border-collapse:collapse;}
+.table.striped tbody tr:nth-child(even){background-color:#eee;}
+.table.bordered,
+.table.bordered th,
+.table.bordered td{border:1px solid #bbb;margin:0;padding:.3rem;}
+.table.compressed th, .table.compressed td{padding:.1em;line-height:1.25;}

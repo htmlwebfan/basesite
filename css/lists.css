@@ -1,0 +1,8 @@
+/* LISTS */
+ul.notepad{list-style-type:none;padding:0;}
+
+ul.notepad li{line-height:2.5rem;border-bottom:1px solid #ddd;padding:0 1rem;color:#999;}
+ul.notepad li:hover{background-color:#ffd;transition:all 1s;}
+
+ul.notepad li a{display:block;color:#414141;}
+ul.notepad li:hover a{color:#059;}

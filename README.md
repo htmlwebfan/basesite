@@ -1,2 +1,2 @@
 # basesite
-Base code for a static website.
+Basic code for a static website.

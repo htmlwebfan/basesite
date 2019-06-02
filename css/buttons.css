@@ -1,0 +1,12 @@
+.btn{padding:.75rem;line-height:2.75rem;border-radius:8px;border-width:1px;border-style:solid;}
+.btn-basic{background-color:#eee;color:#555;}
+.btn-success{background-color:#dfd;color:#060;border-color:#060;}
+.btn-warning{background-color:#ffb;color:#c90;border-color:#c90;}
+.btn-info{background-color:#bef;color:#059;border-color:#059;}
+.btn-error{background-color:#fcc;color:#900;border-color:#900;}
+
+.btn-red{background-color:#f00;color:#fff;border-color:#600;}
+.btn-green{background-color:#0f0;color:#fff;border-color:#060;}
+.btn-blue{background-color:#00f;color:#fff;border-color:#006;}
+.btn-orange{background-color:#f90;color:#fff;border-color:#f60;}
+.btn-pink{background-color:#fc81ba;color:#fff;border-color:#9c1956;}
